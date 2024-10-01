@@ -1,1 +1,2 @@
-# der-ace
+# DER-ACE
+Alpha Sign up info
